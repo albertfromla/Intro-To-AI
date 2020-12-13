@@ -1,2 +1,2 @@
 # Intro-To-AI
-Project 1
+This is puzzle that demonstrates the efficiency of A*, SPF, hill climbing and genetic algorithms. 
